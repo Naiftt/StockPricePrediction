@@ -1,0 +1,9 @@
+###### Requirements with Version Specifiers for SPAFD ######
+numpy 
+torch 
+scipy 
+tqdm 
+pandas 
+Pillow
+yfinance
+matplotlib
